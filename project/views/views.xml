@@ -1,7 +1,6 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
-    <!--
+    
     <record model="ir.ui.view" id="project.list">
       <field name="name">project list</field>
       <field name="model">project.project</field>
